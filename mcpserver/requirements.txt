@@ -1,0 +1,5 @@
+langchain-groq
+mcp-use
+dotenv
+mcp[cli]
+nest_asyncio

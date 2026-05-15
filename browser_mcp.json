@@ -18,6 +18,9 @@
       "args": [
         "server/weather.py"
       ]
+    },
+    "my-docker-server": {
+      "url": "http://localhost:8050/sse"
     }
   }
 }
