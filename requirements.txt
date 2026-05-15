@@ -3,3 +3,4 @@ mcp-use
 dotenv
 mcp[cli]
 nest_asyncio
+streamlit
